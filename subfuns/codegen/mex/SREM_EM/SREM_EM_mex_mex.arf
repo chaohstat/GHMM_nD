@@ -1,0 +1,11 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwblas.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:emlrtMexFcnProperties
+/export:SREM_EM
+/export:SREM_EM_initialize
+/export:SREM_EM_terminate
+/export:SREM_EM_atexit
