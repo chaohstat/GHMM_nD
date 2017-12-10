@@ -1,11 +1,11 @@
-# GHMM_3D
+# GHMM_nD
 
-This GHMM_3D package is developed by Chao Huang and Hongtu Zhu from the [BIG-S2 lab](http://odin.mdacc.tmc.edu/bigs2/). 
+This GHMM_nD package is developed by Chao Huang and Hongtu Zhu from the [BIG-S2 lab](http://odin.mdacc.tmc.edu/bigs2/) and Marc Niethammer from the [uncbiag lab](https://github.com/uncbiag/). 
 
-Gaussian hidden Markov model (3D) is a Matlab based package for statistical 3D imaging spatial heterogeneity analysis. A Gaussian hidden Markov model is introduced to build the spatial heterogeneity of imaging intensity across different patients. The statistical inference results are used in diseased region detection in both personal level and populational level. 
+Gaussian hidden Markov model (nD) is a Matlab based package for statistical nD (n=2,3) imaging spatial heterogeneity analysis. A Gaussian hidden Markov model is introduced to build the spatial heterogeneity of imaging intensity across different patients. The statistical inference results are used in diseased region detection in both personal level and populational level. 
 
 # Command Script 
-We provide a command script (GHMM_3D_scp.m) to run the data analysis with GHMM_3D. Please see the file GHMM_3D_scp.m for usage. We also provide some simulated 3D imaging dataset for testing the package.
+We provide a command script (GHMM_nD_scp.m) to run the data analysis with GHMM_nD. Please see the file GHMM_nD_scp.m for usage. We also provide some simulated 3D imaging dataset for testing the package.
 
 # GUI Interface
 This toolbox is written in a user-friendly GUI interface. Here are some explainations of the interface:
